@@ -22,7 +22,7 @@ ___
 > This is a quote
 
 <!-- Links -->
-[#GFL](https:mingos3.github.io/galiciafoodland)
+[#GFL](https:mingos3.github.io/mywebsite)
 
 [GaliciaFoodLand](https:mingos3.github.io/mywebsite "GFL")
 
